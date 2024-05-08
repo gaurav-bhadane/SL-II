@@ -43,3 +43,5 @@ This repository contains Python programs related to various topics in artificial
 
 ### 13. ConvNet Training for Image Classification
    - Python program for creating and training a ConvNet in TensorFlow for image classification. Various hyperparameter tuning techniques are applied to address overfitting or underfitting issues, with graphical comparisons maintained.
+### 13. MNIST Handwritten Character Detection
+   - MNIST Handwritten Character Detection using PyTorch, Keras and Tensorflow
