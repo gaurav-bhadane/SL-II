@@ -1,4 +1,4 @@
-# Savitribai Phule Pune University
+# Savitribai Phule Pune University (SPPU)
 
 ## Department of Artificial Intelligence and Data Science
 ## TE AI&DS Software Laboratory –III
