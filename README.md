@@ -3,7 +3,7 @@
 ## Department of Artificial Intelligence and Data Science
 ## TE AI&DS Software Laboratory –III
 
-This repository contains Python programs related to various topics in artificial intelligence and neural networks as part of the curriculum at the Department of Artificial Intelligence and Data Science, Savitribai Phule Pune University.
+This repository contains Python programs related to various topics in Artificial Neural Networks as part of the curriculum at the Department of Artificial Intelligence and Data Science, Savitribai Phule Pune University.
 
 ### 1. Plot Activation Functions
    - Python program to plot several activation functions commonly used in neural networks.
